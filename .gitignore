@@ -178,6 +178,8 @@ dist
 .idea
 !.idea/dictionaries/project.xml
 !.idea/workspace.xml
+!.idea/jsLinters
+
 # Finder (MacOS) folder config
 .DS_Store
 
