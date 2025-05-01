@@ -3,6 +3,6 @@
   <component name="PrettierConfiguration">
     <option name="myConfigurationMode" value="MANUAL" />
     <option name="myFilesPattern" value="**/*.{js,jsx,ts,tsx}" />
-    <option name="customIgnorePath" value="$PROJECT_DIR$\.prettierignore" />
+    <option name="customIgnorePath" value="$PROJECT_DIR$/.prettierignore" />
   </component>
 </project>
