@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="NamedScopeManager">
+    <scope name="nordcraft" pattern="!file:node_modules//*&amp;&amp;!file:dist//*&amp;&amp;!file:*.js.map&amp;&amp;!file:.vscode//*&amp;&amp;!file:.idea//*" />
+  </component>
+</project>
