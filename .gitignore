@@ -176,6 +176,7 @@ dist
 
 # IntelliJ based IDEs
 .idea
+!.idea/dictionaries/project.xml
 
 # Finder (MacOS) folder config
 .DS_Store
