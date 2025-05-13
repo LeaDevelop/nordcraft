@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="NamedScopeManager">
+    <scope name="NordcraftSearchExclude" pattern="!file:node_modules//*&amp;&amp;!file:dist//*&amp;&amp;!file:*.js.map&amp;&amp;!file:.vscode//*&amp;&amp;!file:.idea//*" />
+  </component>
+  <component name="FileWatcherManager">
+    <excludeRoots>
+      <file path="$PROJECT_DIR$/.git/objects" />
+      <file path="$PROJECT_DIR$/.git/subtree-cache" />
+      <file path="$PROJECT_DIR$/.hg/store" />
+      <file path="$PROJECT_DIR$/node_modules" />
+    </excludeRoots>
+  </component>
+</project>
